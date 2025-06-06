@@ -10,7 +10,6 @@ Welcome to the **Online Examination Portal**! This project provides an interacti
 
 ### Normal User:
 
-- 📝 Create an account.
 - 🎓 Take quizzes based on personal preferences.
 
 **Note:** In the initial stage, evaluation is done on the frontend side. Future plans include making this a backend service for calculating and saving user marks.
